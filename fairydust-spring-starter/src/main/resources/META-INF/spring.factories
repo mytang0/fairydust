@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationContextInitializer=\
+  org.mytang.fairydust.spring.FairyDustInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.mytang.fairydust.spring.FairyDustProperties
